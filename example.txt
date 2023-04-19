@@ -1,0 +1,346 @@
+##### Date of Collection
+2023-04-19 12:20:14
+##### WHOIS info for bbc.com:
+   Domain Name: BBC.COM
+   Registry Domain ID: 4794897_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucows.com
+   Updated Date: 2021-07-06T15:03:44Z
+   Creation Date: 1989-07-15T04:00:00Z
+   Registry Expiry Date: 2030-07-14T04:00:00Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email: domainabuse@tucows.com
+   Registrar Abuse Contact Phone: +1.4165350123
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Name Server: DDNS0.BBC.CO.UK
+   Name Server: DDNS0.BBC.COM
+   Name Server: DDNS1.BBC.CO.UK
+   Name Server: DDNS1.BBC.COM
+   Name Server: DNS0.BBC.CO.UK
+   Name Server: DNS0.BBC.COM
+   Name Server: DNS1.BBC.CO.UK
+   Name Server: DNS1.BBC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2023-04-19T11:20:03Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: BBC.COM
+Registry Domain ID: 4794897_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://tucowsdomains.com
+Updated Date: 2023-03-03T18:37:12
+Creation Date: 1989-07-15T04:00:00
+Registrar Registration Expiration Date: 2030-07-14T04:00:00
+Registrar: TUCOWS, INC.
+Registrar IANA ID: 69
+Reseller: British Broadcasting Corporation
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY 
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: GB
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: 
+Registrant Email: https://tieredaccess.com/contact/72992ae4-49ad-4e20-90a6-9076780281ec
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY 
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY 
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY
+Name Server: dns0.bbc.co.uk
+Name Server: dns1.bbc.co.uk
+Name Server: ddns0.bbc.co.uk
+Name Server: ddns1.bbc.co.uk
+Name Server: dns0.bbc.com
+Name Server: dns1.bbc.com
+Name Server: ddns0.bbc.com
+Name Server: ddns1.bbc.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+URL of the ICANN WHOIS Data Problem Reporting System: https://icann.org/wicf
+>>> Last update of WHOIS database: 2023-04-19T11:20:15Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+    British Broadcasting Corporation, hostmaster@bbc.co.uk
+    +44.3030409777
+
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Tucows makes this information available "as is," and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+
+##### DNS information for bbc.com:
+
+; <<>> DiG 9.18.1-1ubuntu1.1-Ubuntu <<>> bbc.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6934
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;bbc.com.			IN	A
+
+;; ANSWER SECTION:
+bbc.com.		5	IN	A	151.101.0.81
+bbc.com.		5	IN	A	151.101.64.81
+bbc.com.		5	IN	A	151.101.128.81
+bbc.com.		5	IN	A	151.101.192.81
+
+;; Query time: 20 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Wed Apr 19 12:20:15 BST 2023
+;; MSG SIZE  rcvd: 100
+
+##### Certificate info for bbc.com:
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            27:a1:77:1a:5d:44:5e:52:7d:7e:70:b7
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = BE, O = GlobalSign nv-sa, CN = GlobalSign RSA OV SSL CA 2018
+        Validity
+            Not Before: Mar 14 06:16:13 2023 GMT
+            Not After : Apr 14 06:16:12 2024 GMT
+        Subject: C = GB, ST = London, L = London, O = BRITISH BROADCASTING CORPORATION, CN = www.bbc.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b2:40:d3:2c:1c:5b:75:06:7e:10:9b:d0:d6:69:
+                    a5:b0:ea:33:75:28:94:b3:6b:e4:95:d9:5c:f5:1d:
+                    3b:0b:3e:d3:76:d6:9b:e4:ad:3b:5e:42:c1:c3:e2:
+                    1d:84:c8:40:2b:e9:77:be:6c:c9:ab:b2:3f:76:79:
+                    dd:32:f7:4f:a7:31:96:e2:f0:09:e9:73:a4:48:37:
+                    2b:00:91:f9:af:18:e1:7f:4d:68:5d:74:31:e2:07:
+                    c8:66:62:dd:b7:e6:1e:e9:61:ae:59:90:ba:72:72:
+                    94:36:71:d8:bc:32:b6:d5:8c:e0:9a:5d:f0:20:f9:
+                    f5:f1:52:71:e0:6a:3a:a3:d0:f3:29:db:17:26:1f:
+                    7c:10:c5:16:fe:bd:f8:b2:1d:4c:77:e8:68:9b:04:
+                    f3:b1:20:73:71:af:c7:bc:94:e2:60:da:75:51:c5:
+                    63:70:9c:9b:a6:d2:0a:ea:82:b4:f0:c1:86:e4:01:
+                    40:e3:e2:c4:74:f3:85:5c:a8:77:5f:4f:73:f8:49:
+                    5c:9a:a0:3d:db:a6:9f:d0:4f:1c:54:2b:be:e7:95:
+                    88:10:71:11:8d:53:52:a0:e3:47:b0:16:b2:ed:b1:
+                    db:be:a1:1a:59:27:12:e8:29:44:5b:a7:68:dc:ef:
+                    c5:82:74:fc:54:20:ec:35:8f:91:42:46:f6:27:7f:
+                    55:45
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            Authority Information Access: 
+                CA Issuers - URI:http://secure.globalsign.com/cacert/gsrsaovsslca2018.crt
+                OCSP - URI:http://ocsp.globalsign.com/gsrsaovsslca2018
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.4146.1.20
+                  CPS: https://www.globalsign.com/repository/
+                Policy: 2.23.140.1.2.2
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://crl.globalsign.com/gsrsaovsslca2018.crl
+            X509v3 Subject Alternative Name: 
+                DNS:www.bbc.com, DNS:www.bbc.co.uk, DNS:bbc.co.uk, DNS:bbcrussian.com, DNS:*.bbc.com, DNS:*.bbcrussian.com, DNS:bbc.com
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Authority Key Identifier: 
+                F8:EF:7F:F2:CD:78:67:A8:DE:6F:8F:24:8D:88:F1:87:03:02:B3:EB
+            X509v3 Subject Key Identifier: 
+                43:D7:96:FC:CA:DB:93:F0:CE:74:A8:CF:1D:82:25:4A:09:DB:DA:93
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 73:D9:9E:89:1B:4C:96:78:A0:20:7D:47:9D:E6:B2:C6:
+                                1C:D0:51:5E:71:19:2A:8C:6B:80:10:7A:C1:77:72:B5
+                    Timestamp : Mar 14 06:16:19.020 2023 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:AA:40:F5:35:95:24:AF:04:AB:DF:87:
+                                75:30:6A:23:E9:AE:2C:C0:F2:D1:2C:33:C2:E4:73:C5:
+                                B6:04:EF:65:90:02:21:00:95:1A:B2:66:C5:9A:A0:3D:
+                                54:70:3F:AE:09:C3:0D:C8:F9:57:62:64:58:A5:94:08:
+                                63:2B:F4:8B:BF:DC:B3:E3
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : EE:CD:D0:64:D5:DB:1A:CE:C5:5C:B7:9D:B4:CD:13:A2:
+                                32:87:46:7C:BC:EC:DE:C3:51:48:59:46:71:1F:B5:9B
+                    Timestamp : Mar 14 06:16:19.123 2023 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:8A:D7:F5:98:C4:2A:3F:3B:1B:9E:C8:
+                                8B:D9:ED:8E:BA:C0:59:80:CE:A4:0D:42:04:09:72:40:
+                                5A:18:6E:B5:E6:02:20:07:77:CA:F1:88:90:70:83:EC:
+                                21:77:4D:34:BB:BA:59:24:9F:1F:E7:AE:64:45:0A:42:
+                                E8:D2:AB:71:D7:B9:31
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : DA:B6:BF:6B:3F:B5:B6:22:9F:9B:C2:BB:5C:6B:E8:70:
+                                91:71:6C:BB:51:84:85:34:BD:A4:3D:30:48:D7:FB:AB
+                    Timestamp : Mar 14 06:16:19.053 2023 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:D3:12:7F:05:57:E4:5D:44:8F:ED:CB:
+                                5B:7C:0B:44:FF:34:B6:4C:5B:9F:F0:1F:25:86:53:3D:
+                                2E:CF:7E:B5:8E:02:20:5A:51:50:07:F5:CA:BD:DF:3F:
+                                56:C1:1E:4F:2D:65:0F:42:3B:A8:21:66:42:F1:51:B6:
+                                0B:DF:8E:96:C9:61:09
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        70:98:a6:47:07:4a:5c:8f:82:a2:63:90:21:82:f4:b5:81:68:
+        03:da:c7:bd:38:7f:64:bd:bd:fd:dc:97:06:3a:d7:cc:b3:57:
+        eb:c3:18:d9:83:62:a2:77:b7:b2:b4:22:9c:b6:d4:c2:0e:4c:
+        8f:07:85:a7:18:97:f1:bc:61:2b:5b:f7:17:3c:65:57:2c:07:
+        99:b1:4c:bb:ea:36:48:38:b6:cc:42:bd:ba:85:c3:b5:22:0f:
+        5a:14:48:49:fa:57:7e:15:07:12:8a:d5:9e:2b:26:99:27:f2:
+        ec:9d:7e:29:29:f2:97:e5:f8:94:92:38:26:17:75:16:7f:55:
+        b9:ba:7c:f0:b8:9d:54:fe:69:87:d7:e4:10:2c:a9:4b:2f:c0:
+        8a:22:aa:a9:52:d1:cf:c1:c9:23:fe:4e:4e:af:05:62:bb:44:
+        c2:2c:7f:52:9f:d8:49:b4:a0:a6:52:7c:e4:42:af:0f:03:16:
+        a1:3f:9c:d3:ac:bf:f3:32:04:9d:43:97:c2:e7:9c:ab:15:ed:
+        44:6c:5b:db:72:30:b3:65:98:bd:02:24:4c:07:48:e6:42:95:
+        37:22:8b:1e:34:d3:18:6f:36:33:a6:c9:ec:ef:b5:b1:cc:dc:
+        10:00:9e:ff:7d:81:ab:42:bc:42:6c:3e:5d:a4:01:f8:eb:ab:
+        1c:3b:6d:68
+-----BEGIN CERTIFICATE-----
+MIIG2zCCBcOgAwIBAgIMJ6F3Gl1EXlJ9fnC3MA0GCSqGSIb3DQEBCwUAMFAxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSYwJAYDVQQDEx1H
+bG9iYWxTaWduIFJTQSBPViBTU0wgQ0EgMjAxODAeFw0yMzAzMTQwNjE2MTNaFw0y
+NDA0MTQwNjE2MTJaMHAxCzAJBgNVBAYTAkdCMQ8wDQYDVQQIEwZMb25kb24xDzAN
+BgNVBAcTBkxvbmRvbjEpMCcGA1UEChMgQlJJVElTSCBCUk9BRENBU1RJTkcgQ09S
+UE9SQVRJT04xFDASBgNVBAMTC3d3dy5iYmMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAskDTLBxbdQZ+EJvQ1mmlsOozdSiUs2vkldlc9R07Cz7T
+dtab5K07XkLBw+IdhMhAK+l3vmzJq7I/dnndMvdPpzGW4vAJ6XOkSDcrAJH5rxjh
+f01oXXQx4gfIZmLdt+Ye6WGuWZC6cnKUNnHYvDK21Yzgml3wIPn18VJx4Go6o9Dz
+KdsXJh98EMUW/r34sh1Md+homwTzsSBzca/HvJTiYNp1UcVjcJybptIK6oK08MGG
+5AFA4+LEdPOFXKh3X09z+ElcmqA926af0E8cVCu+55WIEHERjVNSoONHsBay7bHb
+vqEaWScS6ClEW6do3O/FgnT8VCDsNY+RQkb2J39VRQIDAQABo4IDkzCCA48wDgYD
+VR0PAQH/BAQDAgWgMIGOBggrBgEFBQcBAQSBgTB/MEQGCCsGAQUFBzAChjhodHRw
+Oi8vc2VjdXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc3JzYW92c3NsY2EyMDE4
+LmNydDA3BggrBgEFBQcwAYYraHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3Ny
+c2FvdnNzbGNhMjAxODBWBgNVHSAETzBNMEEGCSsGAQQBoDIBFDA0MDIGCCsGAQUF
+BwIBFiZodHRwczovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAIBgZn
+gQwBAgIwCQYDVR0TBAIwADA/BgNVHR8EODA2MDSgMqAwhi5odHRwOi8vY3JsLmds
+b2JhbHNpZ24uY29tL2dzcnNhb3Zzc2xjYTIwMTguY3JsMGYGA1UdEQRfMF2CC3d3
+dy5iYmMuY29tgg13d3cuYmJjLmNvLnVrggliYmMuY28udWuCDmJiY3J1c3NpYW4u
+Y29tggkqLmJiYy5jb22CECouYmJjcnVzc2lhbi5jb22CB2JiYy5jb20wHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaAFPjvf/LNeGeo3m+P
+JI2I8YcDArPrMB0GA1UdDgQWBBRD15b8ytuT8M50qM8dgiVKCdvakzCCAX8GCisG
+AQQB1nkCBAIEggFvBIIBawFpAHcAc9meiRtMlnigIH1HneayxhzQUV5xGSqMa4AQ
+esF3crUAAAGG3sMvTAAABAMASDBGAiEAqkD1NZUkrwSr34d1MGoj6a4swPLRLDPC
+5HPFtgTvZZACIQCVGrJmxZqgPVRwP64Jww3I+VdiZFillAhjK/SLv9yz4wB2AO7N
+0GTV2xrOxVy3nbTNE6Iyh0Z8vOzew1FIWUZxH7WbAAABht7DL7MAAAQDAEcwRQIh
+AIrX9ZjEKj87G57Ii9ntjrrAWYDOpA1CBAlyQFoYbrXmAiAHd8rxiJBwg+whd000
+u7pZJJ8f565kRQpC6NKrcde5MQB2ANq2v2s/tbYin5vCu1xr6HCRcWy7UYSFNL2k
+PTBI1/urAAABht7DL20AAAQDAEcwRQIhANMSfwVX5F1Ej+3LW3wLRP80tkxbn/Af
+JYZTPS7PfrWOAiBaUVAH9cq93z9WwR5PLWUPQjuoIWZC8VG2C9+OlslhCTANBgkq
+hkiG9w0BAQsFAAOCAQEAcJimRwdKXI+ComOQIYL0tYFoA9rHvTh/ZL29/dyXBjrX
+zLNX68MY2YNione3srQinLbUwg5MjweFpxiX8bxhK1v3FzxlVywHmbFMu+o2SDi2
+zEK9uoXDtSIPWhRISfpXfhUHEorVnismmSfy7J1+KSnyl+X4lJI4Jhd1Fn9Vubp8
+8LidVP5ph9fkECypSy/AiiKqqVLRz8HJI/5OTq8FYrtEwix/Up/YSbSgplJ85EKv
+DwMWoT+c06y/8zIEnUOXwuecqxXtRGxb23Iws2WYvQIkTAdI5kKVNyKLHjTTGG82
+M6bJ7O+1sczcEACe/32Bq0K8Qmw+XaQB+OurHDttaA==
+-----END CERTIFICATE-----
